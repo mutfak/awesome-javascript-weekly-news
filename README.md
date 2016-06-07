@@ -19,6 +19,8 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 ### Announcements related to JavaScript:
 - [New compiler JS++](http://www.infoworld.com/article/3079092/javascript/new-compiler-tackles-javascripts-weak-typing.html) - New compiler JS++ focuses on JavaScript’s week typing. It checks types in compile time not run time. JS++ is waiting for patent and will not be open source.
 
+- [React Europe Videos](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa , https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof) - React Europe has been taken place in Paris last week. All of the talks has been uploaded into Youtube by React Europe team.
+
 ### Previous weeks
 Previous weeks will be shown in here.
 
