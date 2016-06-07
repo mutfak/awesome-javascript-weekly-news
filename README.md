@@ -16,9 +16,8 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 ### Development related news for JavaScript:
 
-
 ### Announcements related to JavaScript:
-
+- [New compiler JS++](http://www.infoworld.com/article/3079092/javascript/new-compiler-tackles-javascripts-weak-typing.html) - New compiler JS++ focuses on JavaScript’s week typing. It checks types in compile time not run time. JS++ is waiting for patent and will not be open source.
 
 ### Previous weeks
 Previous weeks will be shown in here.
