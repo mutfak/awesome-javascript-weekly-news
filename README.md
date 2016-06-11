@@ -25,6 +25,8 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 - [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.4917k1bjj) - Eric Elliott tells us the things that he learnt while writing a generator like avoiding recursion and allowing parameters to limit the length of generators
 
+- [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.p0cinzehs) - NodeSource translates Yosuke Furukawa's blog post about the challenges Node.js was facing with considering ES6 Modules support.
+
 ### Previous weeks
 Previous weeks will be shown in here.
 
