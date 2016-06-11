@@ -23,6 +23,8 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 - [When not to use arrow functions](http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) - Dmitry Pavlutin's blog post is about arrow functions. He explains wrong usages of arrow functions and when we shouldn't use them.
 
+- [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.4917k1bjj) - Eric Elliott tells us the things that he learnt while writing a generator like avoiding recursion and allowing parameters to limit the length of generators
+
 ### Previous weeks
 Previous weeks will be shown in here.
 
