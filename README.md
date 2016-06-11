@@ -21,6 +21,8 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 - [React Europe Videos](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa , https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof) - React Europe has been taken place in Paris last week. All of the talks has been uploaded into Youtube by React Europe team.
 
+- [When not to use arrow functions](http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) - Dmitry Pavlutin's blog post is about arrow functions. He explains wrong usages of arrow functions and when we shouldn't use them.
+
 ### Previous weeks
 Previous weeks will be shown in here.
 
