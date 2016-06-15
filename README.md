@@ -7,7 +7,9 @@ A curated list of awesome JavaScript news and blog posts and much more.
 Every week list will be divided into categories such as develoment, announcements for JavaScript and others. In each category, the order is for contribution. If you want to contribute, please read the guide.
 
 List will contain weekly news and previous weeks' table.
-Weeks from current week will be shown in README.
+
+News from current week will be shown in README.
+
 News from previous weeks will be accesible from here.
 
 ##### How to Use
