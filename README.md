@@ -18,7 +18,9 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 ### Development related news for JavaScript:
 
-- [ExmaScript 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) - New JavaScript Spec is out.
+- [Jailed JavaScript](http://www.infoworld.com/article/3083009/open-source-tools/jailed-javascript-library-runs-untrusted-code-safely-in-browsers-nodejs.html) - Jailed uses native JavaScript functions to run other libraries in a sandboxed environment, which could be the route to safer plugins and better automated testing of code
+
+- [EcmaScript 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) - New JavaScript Spec is out.
 
 - [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
 
