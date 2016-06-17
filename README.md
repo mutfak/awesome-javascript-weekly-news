@@ -17,6 +17,9 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 
 ### Development related news for JavaScript:
+
+- [ExmaScript 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) - New JavaScript Spec is out.
+
 - [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
 
 
