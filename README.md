@@ -17,8 +17,9 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 
 ### Development related news for JavaScript:
-- [React Europe Videos](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa , https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof) - React Europe has been taken place in Paris last week. All of the talks has been uploaded into Youtube by React Europe team.
-https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv
+- [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
+
+
 ### Announcements related to JavaScript:
 
 ### Previous week
