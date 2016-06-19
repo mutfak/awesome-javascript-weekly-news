@@ -18,27 +18,21 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 ### Development related news for JavaScript:
 
-- [Jailed JavaScript](http://www.infoworld.com/article/3083009/open-source-tools/jailed-javascript-library-runs-untrusted-code-safely-in-browsers-nodejs.html) - Jailed uses native JavaScript functions to run other libraries in a sandboxed environment, which could be the route to safer plugins and better automated testing of code
-- [EcmaScript 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) - New JavaScript Spec is out.
-- [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584) - From facebook about keeping and improving code quality in such big projects.
-- [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
-
-
 ### Announcements related to JavaScript:
 
 ### Previous week
 
-- [New compiler JS++](http://www.infoworld.com/article/3079092/javascript/new-compiler-tackles-javascripts-weak-typing.html) - New compiler JS++ focuses on JavaScript’s week typing. It checks types in compile time not run time. JS++ is waiting for patent and will not be open source.
+- [Jailed JavaScript](http://www.infoworld.com/article/3083009/open-source-tools/jailed-javascript-library-runs-untrusted-code-safely-in-browsers-nodejs.html) - Jailed uses native JavaScript functions to run other libraries in a sandboxed environment, which could be the route to safer plugins and better automated testing of code
 
-- [React Europe Videos](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa , https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof) - React Europe has been taken place in Paris last week. All of the talks has been uploaded into Youtube by React Europe team.
+- [EcmaScript 2016 Language Specification](http://www.ecma-international.org/ecma-262/7.0/index.html) - New JavaScript Spec is out.
 
-- [When not to use arrow functions](http://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) - Dmitry Pavlutin's blog post is about arrow functions. He explains wrong usages of arrow functions and when we shouldn't use them.
+- [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584) - From facebook about keeping and improving code quality in such big projects.
 
-- [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.4917k1bjj) - Eric Elliott tells us the things that he learnt while writing a generator like avoiding recursion and allowing parameters to limit the length of generators
-
-- [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.p0cinzehs) - NodeSource translates Yosuke Furukawa's blog post about the challenges Node.js was facing with considering ES6 Modules support.
+- [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
 
 ## Other weeks
+
+- [Week 1: 06.06.2016 - 12.06.2016](https://github.com/mutfak/awesome-javascript-weekly-news/blob/master/PreviousWeeks/week1:06.06.2016-12.06.2016.md)
 
 ## License
 
