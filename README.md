@@ -4,23 +4,26 @@
 ##### About
 
 A curated list of awesome JavaScript news and blog posts and much more.
+
 Every week list will be divided into categories such as develoment, announcements for JavaScript and others. In each category, the order is for contribution. If you want to contribute, please read the guide.
 
 List will contain weekly news and previous weeks' table.
 
-News from current week will be shown in README.
-
-News from previous weeks will be accesible from here.
+News from previous weeks can be accesible from [here](https://github.com/mutfak/awesome-javascript-weekly-news/tree/master/PreviousWeeks).
 
 ##### How to Use
 Awesome-javascript-weekly-news is an amazing list for news and blog posts related to JavaScript and development for JavaScripts.
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 
-### Development related news for JavaScript:
+# News & Blog posts from current week:
 
-### Announcements related to JavaScript:
+## Development related news for JavaScript:
+
+## Announcements related to JavaScript:
 
 ### Previous week
+
+#### Development related news for JavaScript:
 
 - [Jailed JavaScript](http://www.infoworld.com/article/3083009/open-source-tools/jailed-javascript-library-runs-untrusted-code-safely-in-browsers-nodejs.html) - Jailed uses native JavaScript functions to run other libraries in a sandboxed environment, which could be the route to safer plugins and better automated testing of code
 
@@ -30,7 +33,9 @@ Awesome-javascript-weekly-news is an amazing list for news and blog posts relate
 
 - [New look to React setState](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.44idi9bmv) - Great medium post by Michel Weststrate about using MobX for local state changes.
 
-## Other weeks
+#### Announcements related to JavaScript:
+
+### Other weeks
 
 - [Week 1: 06.06.2016 - 12.06.2016](https://github.com/mutfak/awesome-javascript-weekly-news/blob/master/PreviousWeeks/week1:06.06.2016-12.06.2016.md)
 
